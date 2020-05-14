@@ -1,0 +1,9 @@
+﻿  interp2.cpp
+C:\Users\qianl\source\repos\Interp2InCPP\Interp2InCPP\interp2.h(10,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  mainFun.cpp
+C:\Users\qianl\source\repos\Interp2InCPP\Interp2InCPP\interp2.h(10,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\qianl\source\repos\Interp2InCPP\Interp2InCPP\mainFun.cpp(4,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Test.cpp
+C:\Users\qianl\source\repos\Interp2InCPP\Interp2InCPP\interp2.h(10,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  Interp2InCPP.vcxproj -> C:\Users\qianl\source\repos\Interp2InCPP\x64\Debug\Interp2InCPP.exe
